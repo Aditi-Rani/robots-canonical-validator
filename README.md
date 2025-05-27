@@ -22,11 +22,12 @@ A Python tool that helps validate a website’s `robots.txt` file and HTML `<lin
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
-
+```bash
+https://github.com/Aditi-Rani/robots-canonical-validator
+```
 ```bash
 cd robots-canonical-validator
 ```
-
 ### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
